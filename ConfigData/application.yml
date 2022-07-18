@@ -10,7 +10,7 @@ words: Yo,Tu,El,Ella
 ---
 spring:
   profiles: verb
-words: corrió, sabía, tenía, vió, compró
+ words: corrió, sabía, tenía, vió, compró
 ---
 spring:
   profiles: article
