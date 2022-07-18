@@ -17,8 +17,8 @@ spring:
     words: un,una,la 
 --- 
 spring: 
-  profiles: 
-    adjective words: razonable, permeable, sospechoso, ordinario, improbable 
+  profiles: adjective
+    words: razonable, permeable, sospechoso, ordinario, improbable 
 --- 
 spring: 
   profiles: noun 
